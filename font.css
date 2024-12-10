@@ -1,0 +1,4 @@
+@font-face {
+    font-family: '1'; /* 自定义一个字体系列名称 */
+    src: url('./方正宋刻本秀楷简体.ttf') format('truetype'); /* 字体文件路径 */
+  }
